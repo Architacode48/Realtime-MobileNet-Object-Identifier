@@ -1,0 +1,49 @@
+.heading
+{
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-family: 'Fredericka the Great', cursive;
+    color:floralwhite;
+    font-size:30px;
+    background-color:teal;
+    height:60px;
+}
+  .heading2
+  { float:none;
+    background: white ; 
+    border-radius: 20px; 
+    color:teal;
+    box-shadow:5px 5px 5px grey;
+    font-size:20px;
+    font-family: 'Charm', cursive;
+    font-weight:bold;
+    width:100%;
+  }
+  .heading3
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+    font-family: 'Forum', cursive;
+
+  }
+ .copy_right_footer{
+   position:fixed;
+   width:100%;
+   bottom:0;
+   background-color: rgb(105, 105, 105, 0.8);
+   color:lightseagreen;
+   text-align:center;
+   font-size: 18px;
+   font-family: 'Cabin Sketch', cursive;
+ }
+ canvas{
+border-bottom:5px solid lightgreen;
+border-top:5px solid lightgreen;
+border-radius:20px;
+margin-top:100px;
+ }
